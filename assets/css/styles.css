@@ -531,7 +531,10 @@ nav {
   width: 400px;
   height: 200px;
   border-radius: 2rem;
-  border: thick double var(--primary-color);
+  border: 4px solid #fff;
+  box-shadow:
+    inset 0 0 0 4px var(--secondary-color),
+    inset 0 0 0 8px var(--primary-color);
   background-color: var(--terciary-color);
   text-align: center;
 }
@@ -676,7 +679,10 @@ nav {
   width: 400px;
   height: 200px;
   border-radius: 2rem;
-  border: thick double var(--primary-color);
+  border: 4px solid #fff;
+  box-shadow:
+    inset 0 0 0 4px var(--secondary-color),
+    inset 0 0 0 8px var(--primary-color);
   background-color: var(--terciary-color);
   text-align: center;
 }
@@ -744,7 +750,10 @@ nav {
   width: 400px;
   height: 200px;
   border-radius: 2rem;
-  border: thick double var(--primary-color);
+  border: 4px solid #fff;
+  box-shadow:
+    inset 0 0 0 4px var(--secondary-color),
+    inset 0 0 0 8px var(--primary-color);
   background-color: var(--terciary-color);
   text-align: center;
 }
@@ -823,7 +832,10 @@ nav {
   width: 400px;
   height: 200px;
   border-radius: 2rem;
-  border: thick double var(--primary-color);
+  border: 4px solid #fff;
+  box-shadow:
+    inset 0 0 0 4px var(--secondary-color),
+    inset 0 0 0 8px var(--primary-color);
   background-color: var(--terciary-color);
   text-align: center;
 }
@@ -899,7 +911,10 @@ nav {
   width: 400px;
   height: 200px;
   border-radius: 2rem;
-  border: thick double var(--primary-color);
+  border: 4px solid #fff;
+  box-shadow:
+    inset 0 0 0 4px var(--secondary-color),
+    inset 0 0 0 8px var(--primary-color);
   background-color: var(--terciary-color);
   text-align: center;
 }
@@ -1378,7 +1393,7 @@ footer {
 
   /* Popup container */
   .titulo-a {
-    font-size: 2.3em;
+    font-size: 2.2em;
     font-weight: 600;
     margin-bottom: -20px;
     display: flex;
@@ -1388,7 +1403,10 @@ footer {
     justify-content: center;
     width: 19rem;
     border-radius: 1rem;
-    border: thick double var(--primary-color);
+    border: 4px solid #fff;
+    box-shadow:
+      inset 0 0 0 4px var(--secondary-color),
+      inset 0 0 0 8px var(--primary-color);
     line-height: 3rem;
     background-color: var(--terciary-color);
   }
@@ -1511,7 +1529,10 @@ footer {
     justify-content: center;
     width: 19rem;
     border-radius: 1rem;
-    border: thick double var(--primary-color);
+    border: 4px solid #fff;
+    box-shadow:
+      inset 0 0 0 4px var(--secondary-color),
+      inset 0 0 0 8px var(--primary-color);
     line-height: 3rem;
     background-color: var(--terciary-color);
   }
@@ -1583,7 +1604,10 @@ footer {
     justify-content: center;
     width: 19rem;
     border-radius: 1rem;
-    border: thick double var(--primary-color);
+    border: 4px solid #fff;
+    box-shadow:
+      inset 0 0 0 4px var(--secondary-color),
+      inset 0 0 0 8px var(--primary-color);
     line-height: 3rem;
     background-color: var(--terciary-color);
   }
@@ -1639,7 +1663,10 @@ footer {
     justify-content: center;
     width: 19rem;
     border-radius: 1rem;
-    border: thick double var(--primary-color);
+    border: 4px solid #fff;
+    box-shadow:
+      inset 0 0 0 4px var(--secondary-color),
+      inset 0 0 0 8px var(--primary-color);
     line-height: 3rem;
     background-color: var(--terciary-color);
   }
@@ -1710,7 +1737,10 @@ footer {
     justify-content: center;
     width: 19rem;
     border-radius: 1rem;
-    border: thick double var(--primary-color);
+    border: 4px solid #fff;
+    box-shadow:
+      inset 0 0 0 4px var(--secondary-color),
+      inset 0 0 0 8px var(--primary-color);
     line-height: 3rem;
     background-color: var(--terciary-color);
   }
