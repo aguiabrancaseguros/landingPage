@@ -207,7 +207,7 @@ nav {
 }
 
 .container-titulo{
-  height: 80px;
+  height: 100px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -215,7 +215,7 @@ nav {
 }
 
 .call{
-  margin-top: 3rem;
+  margin-top: 0rem;
   max-width: 100%;
 }
 
@@ -254,10 +254,10 @@ nav {
   display: flex;
   flex-direction: column;
   max-width: 100%;
-  margin: 3% 10%;
+  margin: 0% 10% 0% 10%;
 }
 .intro-text{
-  margin-top: 2rem;
+  margin-top: 3.5rem;
 }
 .intro-textt{
   display: flex;
@@ -491,6 +491,7 @@ nav {
   flex-direction: column;
   gap: 1.5rem;
   margin-bottom: 1.5rem;
+  margin-top: 3.5rem;
 }
 
 .titulos {
@@ -502,6 +503,7 @@ nav {
   gap: 2rem;
   width: 90%;
   margin-bottom: 1rem;
+  margin-top: 1rem;
   line-height: 5rem;
 }
 
@@ -1266,7 +1268,7 @@ footer {
   
   
     max-width: 100%;
-    margin: 5% 10%;
+    margin: 10% 10%;
   }
   
   .intro-textt{
