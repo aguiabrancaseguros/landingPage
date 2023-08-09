@@ -4,19 +4,16 @@
 function menu() {
   if (window.innerWidth < 860) {
     var x = document.getElementById("myTopnav");
+    var y = document.getElementById("botao");
     var opa = document.getElementById("opaco-id");
-    if (x.className === "topnav") {
+    if (x.className === "topnav" && y.className === "fa fa-bars") {
       x.className += " responsive";
+      y.className += "fa fa-close";
       opa.className = "opaco responsive";
     } else {
       x.className = "topnav";
-      opa.className = "opaco";
-    }
-    var y = document.getElementById("botao");
-    if (y.className === "fa fa-bars"){
-      y.className += "fa fa-close";
-    } else {
       y.className = "fa fa-bars";
+      opa.className = "opaco";
     }
   }
 
