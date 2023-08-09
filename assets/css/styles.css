@@ -268,20 +268,20 @@ nav {
   margin-top: 2.5rem;
 }
 
-.nome-bren{
+.nome-sobre{
   width: 90%;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
 
-.nome-bren h1 {
+.nome-sobre h1 {
   font-size: 2rem;
   line-height: 2.5rem;
   width: 100%;
   margin: 0 0;
 }
 
-.nome-bren h2 {
+.nome-sobre h2 {
   font-size: 1.5rem;
   line-height: 1.5rem;
   font-weight: 300;
@@ -298,12 +298,12 @@ nav {
 
  }
 
-.drbre {
+.sobrenos {
   color: var(--primary-color);
   font-size: 3rem;
 }
 
-.oabgo {
+.sobrenos2 {
   color: var(--secondary-color);
   font-size: 1.5rem;
 }
@@ -385,7 +385,7 @@ nav {
   color: #fff;
 }
 
-.imagem-credtei{
+.imagem-aguia-branca{
   max-height: 600px;
   max-width: 450px;
   align-items: right;
@@ -985,6 +985,7 @@ nav {
   font-size: 1.5rem;
   color: var(--primary-color);
   margin-bottom: 0px;
+  line-height: 4rem;
 }
 
 .servicos p {
@@ -1275,20 +1276,20 @@ footer {
     flex-direction: column;
     display: flex;
   }
-  .nome-bren{
+  .nome-sobre{
     width: 100%;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
   }
   
-  .nome-bren h1 {
+  .nome-sobre h1 {
     font-size: 3rem;
     line-height: 1.5rem;
     
     margin: 0 0;
   }
   
-  .nome-bren h2 {
+  .nome-sobre h2 {
     font-size: 1rem;
     font-weight: 300;
     line-height: 1rem;
@@ -1299,15 +1300,16 @@ footer {
   .servicos h2 {
     font-size: 1rem;
     margin-bottom: 0px;
+    line-height: 3rem;
   }
   
-  .drbre {
+  .sobrenos {
     color: var(--primary-color);
     font-size: 2.5rem;
     line-height: 3rem;
   }
   
-  .oabgo {
+  .sobrenos2 {
     color: var(--secondary-color);
     font-size: 1.5rem;
   }
@@ -1380,6 +1382,10 @@ footer {
 
   .servicos {
     text-align: center;
+  }
+  
+  .servicos-exemplos{
+    text-align: left;
   }
 
   .titulos {
@@ -1841,7 +1847,7 @@ footer {
     width: 200px;
   }
 
-  .imagem-credtei{
+  .imagem-aguia-branca{
     max-height: 600px;
     max-width: 450px;
     align-items: center;
